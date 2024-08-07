@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, I'm the CodeBUNNY"
+landing-title: "Hi, I'm the Taimoor"
 description: null
 image: null
 author: null
